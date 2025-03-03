@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://milost.github.io/al-folio/sitemap.xml
+Sitemap: https://milost.github.io/sitemap.xml
